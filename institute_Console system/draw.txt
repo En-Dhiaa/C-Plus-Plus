@@ -1,0 +1,101 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace try_derw
+{
+    class Program
+    {
+        static int[] Do = new int[] { 131, 262, 523, 1046 };
+        static int[] RE = new int[] { 147, 294, 587, 1174 };
+        static int[] MI = new int[] { 165, 330, 659, 1318 };
+        static int[] FA = new int[] { 175, 349, 698, 1396 };
+        static int[] SO = new int[] { 196, 392, 784, 1568 };
+        static int[] LA = new int[] { 220, 440, 880, 1760 };
+        static int[] TI = new int[] { 247, 494, 988, 1976 };
+       
+        static void Main(string[] args)
+        {
+
+
+            int mus1 = 0;
+            int mus2 = 1;
+            int mus3 = 2;
+            int mus4 = 3;
+
+            Console.Beep(Do[mus4], 500);
+            Console.Beep(RE[mus4], 500);
+            Console.Beep(MI[mus4], 500);
+            Console.Beep(FA[mus4], 500);
+            Console.Beep(SO[mus4], 500);
+            Console.Beep(LA[mus4], 500);
+            Console.Beep(TI[mus4], 500);
+            Console.Beep(Do[mus4], 500);
+
+            Console.WriteLine("\t ________________________________________");
+            Console.WriteLine("\t|            i\\                          |");
+            Console.WriteLine("\t|            I \\                         |");
+            Console.WriteLine("\t|            I  \\         [1] Add        |");
+            Console.WriteLine("\t|            I   \\        [2] Show       |");
+            Console.WriteLine("\t|            I    \\       [3] Update     |");
+            Console.WriteLine("\t|            I     \\      [4] Delete     |");
+            Console.WriteLine("\t|            I      \\     [5] Exit       |");
+            Console.WriteLine("\t|            I_______\\                   |");
+            Console.WriteLine("\t|     _______I__O__________________      |");
+            Console.WriteLine("\t|     \\           ( )             /      |");
+            Console.WriteLine("\t|____^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^____|");
+
+
+
+
+
+
+            Console.WriteLine("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░");
+            Console.WriteLine("░░░░░░░   ░░░░░░░░░░░░░       ░░░░░░░░░░░░▓▓▓▓▓▓░░░░░░░▓▓▓▓▓░░░░░░▓▓▓▓░░░░░░▓▓▓░░░░░░░░░░░░░░░░░░░░░░░");
+            Console.WriteLine("░░░░░░░   ░░░░░░░░░░░   ░░░░░░   ░░░░░░░▓▓▓░░░░░░░░░░░░░▓▓▓░░░░░░░▓▓▓░▓░░░░░▓▓▓░░░░░░░░░░░░░░░░░░░░░░░");
+            Console.WriteLine("░░░░░░░   ░░░░░░░░░░   ░░░░░░░░   ░░░░▓▓▓░░░░░░░░░░░░░░░▓▓▓░░░░░░░▓▓▓░░▓░░░░▓▓▓░░░░░░░░░░░░░░░░░░░░░░░");
+            Console.WriteLine("░░░░░░░   ░░░░░░░░░   ░░░░░░░░░░   ░░▓▓▓░░░░░░▓▓▓▓▓▓░░░░▓▓▓░░░░░░░▓▓▓░░░▓░░░▓▓▓░░░░░░░░░░░░░░░░░░░░░░░");
+            Console.WriteLine("░░░░░░░   ░░░░░░░░░░   ░░░░░░░░   ░░░░▓▓▓░░░░░░░░▓▓▓░░░░▓▓▓░░░░░░░▓▓▓░░░░▓░░▓▓▓░░░░░░░░░░░░░░░░░░░░░░░");
+            Console.WriteLine("░░░░░░░   ░░░░░░░░░░░   ░░░░░░   ░░░░░░░▓▓▓░░░░░░▓▓▓░░░░▓▓▓░░░░░░░▓▓▓░░░░░▓░▓▓▓░░░░░░░░░░░░░░░░░░░░░░░");
+            Console.WriteLine("░░░░░░░         ░░░░░░░░       ░░░░░░░░░░░░▓▓▓▓▓▓▓▓░░░░░▓▓▓▓▓░░░░░░▓▓▓░░░░░░▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░");
+            Console.WriteLine("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░");
+
+
+
+
+
+
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.WriteLine(">>>>>>>>>>>>>>>>--|>>  ENGLISH  <<--|<<<<<<<<<<<<<<<<<<");
+            Console.WriteLine("          ____                         ______          ");
+            Console.WriteLine("     ____//_]|________            ____//__][_\\         ");
+            Console.WriteLine("    (o _ | -|    _  o|           [o _  | -| _ \\        ");
+            Console.WriteLine("     `(_)-------(_)--'           `(_)-----(_)-'        ");
+            Console.WriteLine("-------------------------------------------------------");
+            Console.WriteLine(">>>>> LITERACY    <<--|                              --");
+            Console.WriteLine(">>>>> ACCESS A    <<--|                              --");
+            Console.WriteLine(">>>>> ACCESS B    <<--|                              --");
+            Console.WriteLine(">>>>> STARTER A   <<--|-----------PRICE 6,500----------");
+            Console.WriteLine(">>>>> STARTER B   <<--|-----------FIRST DIPLOMA--------");
+            Console.WriteLine(">>>>> LEVEL 1A    <<--|                              --");
+            Console.WriteLine(">>>>> LEVEL 1B    <<--|                              --");
+            Console.WriteLine(">>>>> wRITING 1   <<--|                              --");
+            Console.WriteLine("-------------------------------------------------------");
+            Console.WriteLine(">>>>> LEVEL 2A    <<--|                              --");
+            Console.WriteLine(">>>>> LEVEL 2B    <<--|-----------PRICE 7,500----------");
+            Console.WriteLine(">>>>> LEVEL 3A    <<--|-----------SECOND DIPLOMA-------");
+            Console.WriteLine(">>>>> LEVEL 3B    <<--|                              --");
+            Console.WriteLine(">>>>> wRITING 2   <<--|                              --");
+            Console.WriteLine("-------------------------------------------------------");
+            Console.WriteLine(">>>>> LEVEL 4A    <<--|                              --");
+            Console.WriteLine(">>>>> LEVEL 4B    <<--|-----------PRICE 8,000----------");
+            Console.WriteLine(">>>>> LEVEL 5A    <<--|-----------THIRD DIPLOMA--------");
+            Console.WriteLine(">>>>> LEVEL 5B    <<--|                              --");
+            Console.WriteLine(">>>>> wRITING 3   <<--|                              --");
+            Console.WriteLine("-------------------------------------------------------");
+            Console.ReadKey();
+        }
+    }
+}

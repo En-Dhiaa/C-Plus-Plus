@@ -1,0 +1,40 @@
+D:\vs\lectures\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe.config
+D:\vs\lectures\institute_Console system\institute_Console system\obj\Debug\institute_Console system.csprojResolveAssemblyReference.cache
+D:\vs\lectures\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe
+D:\vs\lectures\institute_Console system\institute_Console system\bin\Debug\institute_Console system.pdb
+D:\vs\lectures\institute_Console system\institute_Console system\obj\Debug\institute_Console system.exe
+D:\vs\lectures\institute_Console system\institute_Console system\obj\Debug\institute_Console system.pdb
+D:\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe.config
+D:\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe
+D:\institute_Console system\institute_Console system\bin\Debug\institute_Console system.pdb
+D:\institute_Console system\institute_Console system\obj\Debug\institute_Console system.csprojAssemblyReference.cache
+D:\institute_Console system\institute_Console system\obj\Debug\institute_Console system.csproj.CoreCompileInputs.cache
+D:\institute_Console system\institute_Console system\obj\Debug\institute_Console system.exe
+D:\institute_Console system\institute_Console system\obj\Debug\institute_Console system.pdb
+C:\Users\Dhiaa Al-Hmiri\Desktop\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe.config
+C:\Users\Dhiaa Al-Hmiri\Desktop\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe
+C:\Users\Dhiaa Al-Hmiri\Desktop\institute_Console system\institute_Console system\bin\Debug\institute_Console system.pdb
+C:\Users\Dhiaa Al-Hmiri\Desktop\institute_Console system\institute_Console system\obj\Debug\institute_Console system.csprojAssemblyReference.cache
+C:\Users\Dhiaa Al-Hmiri\Desktop\institute_Console system\institute_Console system\obj\Debug\institute_Console system.csproj.CoreCompileInputs.cache
+C:\Users\Dhiaa Al-Hmiri\Desktop\institute_Console system\institute_Console system\obj\Debug\institute_Console system.exe
+C:\Users\Dhiaa Al-Hmiri\Desktop\institute_Console system\institute_Console system\obj\Debug\institute_Console system.pdb
+C:\Users\Abdualmotalp\Desktop\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe.config
+C:\Users\Abdualmotalp\Desktop\institute_Console system\institute_Console system\obj\Debug\institute_Console system.exe
+C:\Users\Abdualmotalp\Desktop\institute_Console system\institute_Console system\obj\Debug\institute_Console system.pdb
+C:\Users\Abdualmotalp\Desktop\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe
+C:\Users\Abdualmotalp\Desktop\institute_Console system\institute_Console system\bin\Debug\institute_Console system.pdb
+C:\Users\Abdualmotalp\Desktop\institute_Console system\institute_Console system\obj\Debug\institute_Console system.csprojResolveAssemblyReference.cache
+F:\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe.config
+F:\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe
+F:\institute_Console system\institute_Console system\bin\Debug\institute_Console system.pdb
+F:\institute_Console system\institute_Console system\obj\Debug\institute_Console system.csprojAssemblyReference.cache
+F:\institute_Console system\institute_Console system\obj\Debug\institute_Console system.csproj.CoreCompileInputs.cache
+F:\institute_Console system\institute_Console system\obj\Debug\institute_Console system.exe
+F:\institute_Console system\institute_Console system\obj\Debug\institute_Console system.pdb
+C:\Users\AL-SHAIBANY\Desktop\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe.config
+C:\Users\AL-SHAIBANY\Desktop\institute_Console system\institute_Console system\bin\Debug\institute_Console system.exe
+C:\Users\AL-SHAIBANY\Desktop\institute_Console system\institute_Console system\bin\Debug\institute_Console system.pdb
+C:\Users\AL-SHAIBANY\Desktop\institute_Console system\institute_Console system\obj\Debug\institute_Console system.csprojAssemblyReference.cache
+C:\Users\AL-SHAIBANY\Desktop\institute_Console system\institute_Console system\obj\Debug\institute_Console system.csproj.CoreCompileInputs.cache
+C:\Users\AL-SHAIBANY\Desktop\institute_Console system\institute_Console system\obj\Debug\institute_Console system.exe
+C:\Users\AL-SHAIBANY\Desktop\institute_Console system\institute_Console system\obj\Debug\institute_Console system.pdb
